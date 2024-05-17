@@ -1,4 +1,4 @@
-download data in this [link https://www.kaggle.com/competitions/multi-label-classification-competition-2024/data](link)
+download data in this [https://www.kaggle.com/competitions/multi-label-classification-competition-2024/data](link)
 make sure your file structure the same as
 - folder
   - /data
