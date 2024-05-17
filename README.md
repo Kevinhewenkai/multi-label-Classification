@@ -2,7 +2,8 @@ download data in this [link https://www.kaggle.com/competitions/multi-label-clas
 make sure your file structure the same as
 - folder
   - /data
-    - 0.jpg 
+    - 0.jpg
+    - ....jpg
   -  baiscCNN.ipynb
   -  resnet.ipynb
   -  resnet-caption.ipynb
